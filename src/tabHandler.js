@@ -952,10 +952,6 @@ export function TabHandler({startTabKey = dashboardKey})
 
 		</div>
 
-		<div style={{ textAlign: 'center', marginTop : 30, marginBottom : 50 }} >
-			<span><i>iWatch from Kramaha, LLC. Copyright 2024 - present. All rights reserved.</i></span>
-		</div>
-
 		</>
 	);
 
