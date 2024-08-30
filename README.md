@@ -1,4 +1,4 @@
-# iwatch_ui
+# react_ui
 
 ### Installation
 
